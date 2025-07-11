@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Alexandre Fernandes
 
-<!--
-**alexandrefernandesoli/alexandrefernandesoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack, apaixonado por tecnologia, com foco em criar soluções web escaláveis, de alta performance e fáceis de manter.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bacharel em Engenharia da Computação pela UFMS (2024)
+- 👨‍💻 Atuo principalmente com **Node.js**, **React** e **Next.js**
+- 🔌 Experiência sólida em **APIs REST**, **microsserviços**, **integrações com equipamentos de rede**, **CI/CD**, **Docker** e **bancos de dados** como PostgreSQL e MySQL.
+- 💡 Já trabalhei com empresas de marketing direto, ISPs e startups de tecnologia, sempre buscando inovação, boas práticas e colaboração em times ágeis.
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Backend:** Node.js, Golang, C, Java, PHP, Laravel, 
+**Frontend:** React, Next.js, Vue.js, AngularJS, ExtJS, TailwindCSS  
+**Banco de Dados:** PostgreSQL, MySQL, SQL  
+**Ferramentas:** Docker, Git, AWS, Figma, VSCode, Linux  
+**Outros:** APIs REST, Telnet, Shell Script, Agile, Scrum
+
+## 📈 O que estou buscando
+
+Atuar em projetos desafiadores que usem tecnologia para resolver problemas reais e melhorar a vida das pessoas. Estou sempre aberto a aprender, contribuir e evoluir junto com o time.
+
+## 📫 Como me encontrar
+
+- 📧 E-mail: alexandrefernandes_1@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandrefernandesdoliveira)  
+- 🗂️ [GitHub](https://github.com/alexandrefernandesoli)
+
+---
+
+**“Código limpo, aprendizado constante e colaboração.”** 🚀

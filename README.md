@@ -4,7 +4,7 @@ Sou Desenvolvedor Full Stack, apaixonado por tecnologia, com foco em criar solu�
 
 ## 🚀 Sobre mim
 
-- 🎓 Bacharel em Engenharia da Computação pela UFMS (2024)
+- 🎓 Engenheiro da Computação pela UFMS
 - 👨‍💻 Atuo principalmente com **Node.js**, **React** e **Next.js**
 - 🔌 Experiência sólida em **APIs REST**, **microsserviços**, **integrações com equipamentos de rede**, **CI/CD**, **Docker** e **bancos de dados** como PostgreSQL e MySQL.
 - 💡 Já trabalhei com empresas de marketing direto, ISPs e startups de tecnologia, sempre buscando inovação, boas práticas e colaboração em times ágeis.
